@@ -1,4 +1,4 @@
-package com.massoftware.frontend;
+package com.massoftware;
 
 import com.massoftware.windows.paises.WPaises;
 import com.massoftware.windows.provincias.WProvincias;
